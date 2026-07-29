@@ -7,8 +7,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/1-navneet/leetcode-solutions/tree/master/0050-powx-n) |
+| [1922-count-good-numbers](https://github.com/1-navneet/leetcode-solutions/tree/master/1922-count-good-numbers) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/1-navneet/leetcode-solutions/tree/master/0050-powx-n) |
+| [1922-count-good-numbers](https://github.com/1-navneet/leetcode-solutions/tree/master/1922-count-good-numbers) |
 <!---LeetCode Topics End-->
