@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/1-navneet/leetcode-solutions/tree/master/0050-powx-n) |
 | [1922-count-good-numbers](https://github.com/1-navneet/leetcode-solutions/tree/master/1922-count-good-numbers) |
 | [0509-fibonacci-number](https://github.com/1-navneet/leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [3870-count-commas-in-range](https://github.com/1-navneet/leetcode-solutions/tree/master/3870-count-commas-in-range) |
 ## Recursion
 |  |
 | ------- |
