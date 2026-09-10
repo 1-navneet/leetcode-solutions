@@ -9,14 +9,31 @@ class Solution:
         if root is None:
             return None
         
-        if root.val == val:
-            return root
+        # if root.val == val:
+        #     return root
         
-        if root.val > val:
-            return self.searchBST(root.left,val)
+        # if root.val > val:
+        #     return self.searchBST(root.left,val)
         
-        elif root.val < val:
-            return self.searchBST(root.right,val)
+        # elif root.val < val:
+        #     return self.searchBST(root.right,val)
+
+        node = root
+        while node:
+            if node.val>val:
+                node = node.left
+            elif node.val<val:
+                node = node.right
+            else:
+                return node
+
+
+            
+
+        
+
+
+
         
 
         
