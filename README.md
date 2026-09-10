@@ -43,12 +43,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/1-navneet/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0700-search-in-a-binary-search-tree](https://github.com/1-navneet/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/1-navneet/leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/1-navneet/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0701-insert-into-a-binary-search-tree](https://github.com/1-navneet/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/1-navneet/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/1-navneet/leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/1-navneet/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/1-navneet/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0700-search-in-a-binary-search-tree](https://github.com/1-navneet/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/1-navneet/leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/1-navneet/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Stack
 |  |
 | ------- |
@@ -64,4 +67,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/1-navneet/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/1-navneet/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 <!---LeetCode Topics End-->
