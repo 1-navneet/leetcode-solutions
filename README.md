@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1922-count-good-numbers](https://github.com/1-navneet/leetcode-solutions/tree/master/1922-count-good-numbers) |
 | [0509-fibonacci-number](https://github.com/1-navneet/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [3870-count-commas-in-range](https://github.com/1-navneet/leetcode-solutions/tree/master/3870-count-commas-in-range) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/1-navneet/leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Recursion
 |  |
 | ------- |
@@ -68,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/1-navneet/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/1-navneet/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/1-navneet/leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
