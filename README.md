@@ -85,4 +85,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1693-daily-leads-and-partners](https://github.com/1-navneet/leetcode-solutions/tree/master/1693-daily-leads-and-partners) |
+| [1741-find-total-time-spent-by-each-employee](https://github.com/1-navneet/leetcode-solutions/tree/master/1741-find-total-time-spent-by-each-employee) |
 <!---LeetCode Topics End-->
