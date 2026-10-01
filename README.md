@@ -81,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/1-navneet/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
+## Database
+|  |
+| ------- |
+| [1693-daily-leads-and-partners](https://github.com/1-navneet/leetcode-solutions/tree/master/1693-daily-leads-and-partners) |
 <!---LeetCode Topics End-->
