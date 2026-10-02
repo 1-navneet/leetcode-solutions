@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/1-navneet/leetcode-solutions/tree/master/0078-subsets) |
+| [0994-rotting-oranges](https://github.com/1-navneet/leetcode-solutions/tree/master/0994-rotting-oranges) |
 ## Backtracking
 |  |
 | ------- |
@@ -86,4 +87,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1693-daily-leads-and-partners](https://github.com/1-navneet/leetcode-solutions/tree/master/1693-daily-leads-and-partners) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/1-navneet/leetcode-solutions/tree/master/1741-find-total-time-spent-by-each-employee) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/1-navneet/leetcode-solutions/tree/master/0994-rotting-oranges) |
+## Matrix
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/1-navneet/leetcode-solutions/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
