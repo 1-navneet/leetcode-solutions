@@ -4,6 +4,9 @@ class Solution:
         col = len(image[0])
 
         seen = image[sr][sc]
+
+        if seen == color:
+            return image
         q = deque()
         q.append((sr,sc))
         image[sr][sc] = color
