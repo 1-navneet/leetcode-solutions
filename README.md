@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/1-navneet/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/1-navneet/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0216-combination-sum-iii](https://github.com/1-navneet/leetcode-solutions/tree/master/0216-combination-sum-iii) |
+| [0455-assign-cookies](https://github.com/1-navneet/leetcode-solutions/tree/master/0455-assign-cookies) |
 ## Backtracking
 |  |
 | ------- |
@@ -105,4 +106,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0994-rotting-oranges](https://github.com/1-navneet/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [0733-flood-fill](https://github.com/1-navneet/leetcode-solutions/tree/master/0733-flood-fill) |
+## Two Pointers
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/1-navneet/leetcode-solutions/tree/master/0455-assign-cookies) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/1-navneet/leetcode-solutions/tree/master/0455-assign-cookies) |
+## Sorting
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/1-navneet/leetcode-solutions/tree/master/0455-assign-cookies) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/1-navneet/leetcode-solutions/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
