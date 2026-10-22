@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/1-navneet/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0216-combination-sum-iii](https://github.com/1-navneet/leetcode-solutions/tree/master/0216-combination-sum-iii) |
 | [0455-assign-cookies](https://github.com/1-navneet/leetcode-solutions/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/1-navneet/leetcode-solutions/tree/master/0860-lemonade-change) |
 ## Backtracking
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/1-navneet/leetcode-solutions/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/1-navneet/leetcode-solutions/tree/master/0860-lemonade-change) |
 ## Sorting
 |  |
 | ------- |
