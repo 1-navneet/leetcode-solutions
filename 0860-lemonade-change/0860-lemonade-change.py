@@ -10,13 +10,12 @@ class Solution:
             if bills[i] == 5:
                 fv += 1
             elif bills[i] == 10:
-                tn += 1
                 if fv >= 1:
                     fv -= 1
+                    tn += 1
                 else:
                     return False
             else:
-                tw += 1
                 if fv >= 1 and tn >= 1:
                     tn -= 1
                     fv -= 1
