@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/1-navneet/leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [0542-01-matrix](https://github.com/1-navneet/leetcode-solutions/tree/master/0542-01-matrix) |
 ## Memoization
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/1-navneet/leetcode-solutions/tree/master/0216-combination-sum-iii) |
 | [0455-assign-cookies](https://github.com/1-navneet/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/1-navneet/leetcode-solutions/tree/master/0860-lemonade-change) |
+| [0542-01-matrix](https://github.com/1-navneet/leetcode-solutions/tree/master/0542-01-matrix) |
 ## Backtracking
 |  |
 | ------- |
@@ -102,11 +104,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0994-rotting-oranges](https://github.com/1-navneet/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [0733-flood-fill](https://github.com/1-navneet/leetcode-solutions/tree/master/0733-flood-fill) |
+| [0542-01-matrix](https://github.com/1-navneet/leetcode-solutions/tree/master/0542-01-matrix) |
 ## Matrix
 |  |
 | ------- |
 | [0994-rotting-oranges](https://github.com/1-navneet/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [0733-flood-fill](https://github.com/1-navneet/leetcode-solutions/tree/master/0733-flood-fill) |
+| [0542-01-matrix](https://github.com/1-navneet/leetcode-solutions/tree/master/0542-01-matrix) |
 ## Two Pointers
 |  |
 | ------- |
