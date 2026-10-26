@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/1-navneet/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [3870-count-commas-in-range](https://github.com/1-navneet/leetcode-solutions/tree/master/3870-count-commas-in-range) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/1-navneet/leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
+| [0070-climbing-stairs](https://github.com/1-navneet/leetcode-solutions/tree/master/0070-climbing-stairs) |
 ## Recursion
 |  |
 | ------- |
@@ -22,10 +23,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0509-fibonacci-number](https://github.com/1-navneet/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/1-navneet/leetcode-solutions/tree/master/0542-01-matrix) |
+| [0070-climbing-stairs](https://github.com/1-navneet/leetcode-solutions/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/1-navneet/leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [0070-climbing-stairs](https://github.com/1-navneet/leetcode-solutions/tree/master/0070-climbing-stairs) |
 ## Array
 |  |
 | ------- |
