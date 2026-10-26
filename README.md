@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/1-navneet/leetcode-solutions/tree/master/0860-lemonade-change) |
 | [0542-01-matrix](https://github.com/1-navneet/leetcode-solutions/tree/master/0542-01-matrix) |
 | [1672-richest-customer-wealth](https://github.com/1-navneet/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/1-navneet/leetcode-solutions/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/1-navneet/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/1-navneet/leetcode-solutions/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Database
 |  |
 | ------- |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/1-navneet/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0542-01-matrix](https://github.com/1-navneet/leetcode-solutions/tree/master/0542-01-matrix) |
 | [1672-richest-customer-wealth](https://github.com/1-navneet/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/1-navneet/leetcode-solutions/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Two Pointers
 |  |
 | ------- |
