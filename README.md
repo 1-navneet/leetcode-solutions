@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/1-navneet/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/1-navneet/leetcode-solutions/tree/master/0860-lemonade-change) |
 | [0542-01-matrix](https://github.com/1-navneet/leetcode-solutions/tree/master/0542-01-matrix) |
+| [1672-richest-customer-wealth](https://github.com/1-navneet/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 ## Backtracking
 |  |
 | ------- |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/1-navneet/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [0733-flood-fill](https://github.com/1-navneet/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0542-01-matrix](https://github.com/1-navneet/leetcode-solutions/tree/master/0542-01-matrix) |
+| [1672-richest-customer-wealth](https://github.com/1-navneet/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 ## Two Pointers
 |  |
 | ------- |
